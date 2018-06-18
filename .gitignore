@@ -21,4 +21,6 @@ yarn-debug.log*
 yarn-error.log*
 .swp
 
+composer.json
+package-lock.json
 /src/config/events.json
