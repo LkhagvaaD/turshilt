@@ -3,13 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.0.0-beta.2",
+    "jsonfile": "^4.0.0",
+    "lowdb": "^1.0.0",
+    "moment": "^2.22.2",
     "react": "^16.4.1",
+    "react-datepicker": "^1.5.0",
     "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "write-json-file": "^2.3.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "set PORT=3001&& react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"

@@ -1,0 +1,18 @@
+.react-datepicker__time-container .react-datepicker__time .react-datepicker__time-box ul.react-datepicker__time-list {
+    padding: 0 !important;
+}
+.table-condensed>tbody>tr>td, .table-condensed>tbody>tr>th, .table-condensed>tfoot>tr>td, .table-condensed>tfoot>tr>th, .table-condensed>thead>tr>td, .table-condensed>thead>tr>th{
+    padding: 0;
+}
+.form{
+    margin-top: 30px;
+}
+.header{
+    text-align: center;
+}
+.App{
+    background-color: beige;    
+}
+/* .container{
+    margin-left: 400px;
+} */

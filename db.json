@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "name": "qwerty",
+      "number": "12345678",
+      "hall": "1",
+      "selected_date": "2018-06-26",
+      "selected_startTime": "22:00",
+      "selected_endTime": "23:30",
+      "id": 2
+    },
+    {
+      "name": "qwerty",
+      "number": "1234567890",
+      "hall": "2",
+      "selected_date": "2018-06-28",
+      "selected_startTime": "10:00",
+      "selected_endTime": "11:30",
+      "id": 3
+    },
+    {
+      "name": "asdasd",
+      "number": "123456",
+      "hall": "3",
+      "selected_date": "2018-06-29",
+      "selected_startTime": "20:30",
+      "selected_endTime": "21:30",
+      "id": 4
+    }
+  ]
+}
